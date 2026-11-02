@@ -26,10 +26,8 @@ Docker Desktop을 실행한 뒤 Docker 엔진과 정상적으로 연결되는 �
 주요 확인 명령:
 
 ```powershell
-docker --version
 docker version
 wsl --status
-wsl --list --verbose
 ```
 
 **Docker 개발 환경 확인**
